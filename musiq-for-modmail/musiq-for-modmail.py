@@ -8,6 +8,7 @@ import math
 import random
 import youtube_dl
 import discord
+from discord.ext import commands
 from async_timeout import timeout
 
 # Silence useless bug reports messages
