@@ -7,6 +7,7 @@ import itertools
 import math
 import random
 import youtube_dl
+import discord
 from async_timeout import timeout
 
 # Silence useless bug reports messages
